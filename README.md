@@ -155,11 +155,9 @@ where α ∈ [0, 1] is controlled by the UI slider.
 
 ## 👤 Author
 
-**Your Name** — B.Tech CSE, [Your College Name]  
-LinkedIn: [your-linkedin]  
-GitHub: [your-github]
+**B Ashok** — B.Tech CSD, ANITS  
 
-*Built during Python Internship @ Elevate Labs (2025)*
+*Built during Python Internship @ Elevate Labs (2026)*
 
 ---
 
